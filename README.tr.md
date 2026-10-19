@@ -6,19 +6,19 @@
 
 <p align="center">Öğrenciler ve genç profesyoneller için kişisel planlayıcı. Windows ve macOS’ta çalışır.</p>
 
+<p align="center"><a href="README.md">English</a> · <b>Türkçe</b></p>
+
 <p align="center">
   <a href="https://github.com/ErtugrulS32175/ertlanner-releases/releases/latest"><img src="https://img.shields.io/github/v/release/ErtugrulS32175/ertlanner-releases?label=son%20s%C3%BCr%C3%BCm&color=217a4b" alt="Son sürüm"></a>
 </p>
 
-<p align="center"><a href="README.md">English</a> · <b>Türkçe</b></p>
-
-Ertlanner ders programını, odak seanslarını ve çalışma notlarını tek yerde toplar. Arayüz Türkçe.
+Ertlanner ders programın, odak seansların ve günlük çalışma kaydın için bir masaüstü uygulamasıdır. Arayüz Türkçe.
 
 ![Koleksiyonum](docs/images/collection.png)
 
 ## İndirme
 
-En son sürümü [Releases sayfasından](https://github.com/ErtugrulS32175/ertlanner-releases/releases/latest) indir. Tek dosya yeterli:
+En son sürümü [sürümler sayfasından](https://github.com/ErtugrulS32175/ertlanner-releases/releases/latest) indir. Tek dosya yeterli:
 
 | Bilgisayar | Dosya |
 | --- | --- |
@@ -31,9 +31,10 @@ Diğer dosyalar (`.blockmap`, `.zip`, `.sig`, `latest*.yml`) güncelleme içindi
 ### İlk Açılış
 
 - **Windows:** SmartScreen yayımcının bilinmediğini söyler. **Ek bilgi**, sonra **Yine de çalıştır** düğmesine tıkla.
+- **Kurulum:** **Sadece benim için** seçeneğini değiştirme; bütün kullanıcılar için kurulan Ertlanner kendini güncelleyemez.
 - **macOS:** uygulama engellenirse **Sistem Ayarları > Gizlilik ve Güvenlik** bölümünde **Yine de Aç** düğmesine tıkla. Bunu bir kez yapman yeterli.
 
-Sonrasında Windows güncellemeleri arka planda indirir, imzasını denetler ve uygulamadan çıktığında kurar. Mac’te uygulama yeni sürüm çıktığında haber verir.
+İlk açılıştan sonra Ertlanner Windows’ta kendini günceller: yeni sürümü arka planda indirir, imzasını denetler ve uygulamadan çıktığında kurar. Mac’te yeni sürüm çıkınca haber verir.
 
 ## Neler Var
 
@@ -43,13 +44,13 @@ Sonrasında Windows güncellemeleri arka planda indirir, imzasını denetler ve 
 - Geçmiş, istatistikler ve günün sonunda yalnızca senin gördüğün Günü Bitir değerlendirmesi.
 - Okul ya da Üniversite Ve Profesyonel görünümü. Okul görünümü CV, staj ve proje sayfalarını gizler. Üniversite görünümünde CV ve transkript arşivi, yurt dışı staj başvurusu takibi ve haftalık görevli projeler var.
 - İsteğe bağlı Google girişiyle kendi bilgisayarların arasında eşitleme. Veriler kendi Google Drive’ındaki gizli uygulama klasöründe durur.
-- İsteğe bağlı Ekip: e-postayla davet ettiğin kişilerle haftalık programı ve çalışma günlüğünü paylaş, geri bildirim ver, sohbet et, birini koç olarak işaretle. Okul görünümünde arkadaş ekleyip haftalık odağı karşılaştırabilir, koleksiyonları paylaşabilirsin.
+- İsteğe bağlı Ekip: e-postayla davet ettiğin kişilerle haftalık programı ve çalışma günlüğünü paylaş, geri bildirim ver, sohbet et, birini koç olarak işaretle. Okul görünümünde arkadaş ekleyip haftalık Odak Puanı’nızı yan yana görebilir, koleksiyonlarınızı paylaşabilirsin.
 
 ![Çalışma Günlüğü](docs/images/study-log.png)
 
 ## Gizlilik
 
-Eşitlemeyi ya da Ekip’i açana kadar verilerin yalnızca bilgisayarında durur. Ayrıntılar [gizlilik politikasında](https://ertugruls32175.github.io/ertlanner-site/privacy/).
+Eşitlemeyi, Ekip’i ya da Arkadaşlar’ı açmadıkça verilerin yalnızca bilgisayarında durur. Ayrıntılar [gizlilik politikasında](https://ertugruls32175.github.io/ertlanner-site/privacy/).
 
 ## Bu Depo Hakkında
 
